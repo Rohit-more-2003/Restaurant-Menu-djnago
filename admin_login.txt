@@ -1,3 +1,0 @@
-username = admin
-email = morer4851@gmail.com
-password = Rohit@2003
